@@ -1,1 +1,2 @@
 this is my new text fileS
+with some content
